@@ -21,6 +21,10 @@ This project uses the **Pytrends** API to analyze and visualize how different ke
 * **Plotly Express** – for interactive world map visualizations
 
 ---
+## 👾 Warnings
+
+* The request failed: Google returned a response with code 429/400 are errors thrown by google based on busy searches/frequent searches. Its nothing to do with incorrect code.
+---
 
 ## 📊 Output Examples
 
