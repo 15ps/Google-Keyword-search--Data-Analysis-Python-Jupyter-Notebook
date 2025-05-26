@@ -1,6 +1,8 @@
 # 🔍 Google Keyword Search Trends Analysis
 
-This project uses the **Pytrends** API to analyze and visualize how different keywords trend on Google over time and across the world. With just a quick keyword change, you can explore global interest, compare multiple keywords, and gain insights into what people are searching for online.
+This project uses the **Pytrends** API to analyze and visualize how different keywords trend on Google over time and across the world. With just a quick keyword change, you can explore global interest, compare multiple keywords, and gain insights into what people are searching for online. 
+
+*There are no raw input file used in this project, the data is directly fetches from google and analysed.
 
 ---
 
